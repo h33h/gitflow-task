@@ -1,3 +1,9 @@
+## Photos with descriptions
+![Description](https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-pro-max-01.jpg)
+![Description](https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-pro-max-1.jpg)
+![Description](https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-pro-max-2.jpg)
+![Description](https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-pro-max-3.jpg)
+
 ## Similar devices
 | Model | Price | Details |
 |--|--|--|
@@ -9,4 +15,6 @@
 | Huawei P50 Pro Plus| ₹ 112,646 |![enter image description here](https://i.imgur.com/aqnsqQz.png)|
 | Samsung Galaxy Note 21 Ultra 5G| ₹ 116,528 |![enter image description here](https://i.imgur.com/9zAlGlh.png)|
 | Huawei Mate 50 Pro Plus| ₹ 115,968 |![enter image description here](https://i.imgur.com/32UbReq.png)|
+
+
 
