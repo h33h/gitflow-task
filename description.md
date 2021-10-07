@@ -115,4 +115,3 @@ Compared to the standard iPhone models, the iPhone 13 Pro and Pro Max feature a 
 | Huawei Mate 50 Pro Plus| ₹ 115,968 |![enter image description here](https://i.imgur.com/32UbReq.png)|
 
 
-
