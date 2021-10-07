@@ -113,6 +113,3 @@ Compared to the standard iPhone models, the iPhone 13 Pro and Pro Max feature a 
 | Huawei P50 Pro Plus| ₹ 112,646 |![enter image description here](https://i.imgur.com/aqnsqQz.png)|
 | Samsung Galaxy Note 21 Ultra 5G| ₹ 116,528 |![enter image description here](https://i.imgur.com/9zAlGlh.png)|
 | Huawei Mate 50 Pro Plus| ₹ 115,968 |![enter image description here](https://i.imgur.com/32UbReq.png)|
-
-
-
