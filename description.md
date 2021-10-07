@@ -120,6 +120,8 @@ Compared to the standard iPhone models, the iPhone 13 Pro and Pro Max feature a 
     * [**Official Apple Site**](https://www.apple.com/shop/buy-iphone/iphone-13-pro)
     * [**Verizon**](https://www.verizon.com/smartphones/apple-iphone-13-pro-max/)
 * Belarus : 
-    * **Not avaliable yet**
+    *  [**A1**](https://www.a1.by/ru/shop/c/phones/b/apple)
+    * [**5 Element**](https://5element.by/)
+    * [**MTS**](https://www.mts.by/)
 * Russia : 
-    * **Not avaliable yet**
+    * [**Re:Store**](https://re-store.ru/)
